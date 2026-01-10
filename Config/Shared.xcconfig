@@ -21,6 +21,7 @@ MACOSX_DEPLOYMENT_TARGET = 15.4
 // Info PLIST
 // ==========================================
 GENERATE_INFOPLIST_FILE = YES
+INFOPLIST_KEY_NSCameraUsageDescription = ThreeDisplay uses the camera to track your face position for 3D parallax effects.
 
 // ==========================================
 // Entitlements

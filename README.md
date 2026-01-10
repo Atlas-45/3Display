@@ -6,6 +6,7 @@ macOS上で「ディスプレイから飛び出す」3D表現をリアルタイ�
 内蔵カメラは視点推定（飛び出し方向制御）に使い、SceneKit/Metalで演出を強化する。
 
 See `docs/ROADMAP.md` and `docs/IDEAS.md` for the initial direction.
+See `docs/USAGE.md` for launch steps and controls.
 
 A modern macOS application using a **workspace + SPM package** architecture for clean separation between app shell and feature code.
 
